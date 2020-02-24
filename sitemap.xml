@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>https://heysoyl.com/zh-cn/uncategorized/xcode_iphone_test.html</loc>
+    
+    <lastmod>2020-02-23T17:14:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://heysoyl.com/zh-cn/Git/ssh_key.html</loc>
     
     <lastmod>2019-10-12T09:03:49.815Z</lastmod>
@@ -16,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/categories/index.html</loc>
+    <loc>https://heysoyl.com/tags/index.html</loc>
     
     <lastmod>2019-10-12T09:02:32.047Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/tags/index.html</loc>
+    <loc>https://heysoyl.com/categories/index.html</loc>
     
     <lastmod>2019-10-12T09:02:32.047Z</lastmod>
     
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/vapor_io.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.045Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://heysoyl.com/zh-cn/Swift/vapor_url_response.html</loc>
     
     <lastmod>2019-10-12T09:02:32.045Z</lastmod>
@@ -59,6 +59,13 @@
   
   <url>
     <loc>https://heysoyl.com/zh-cn/uncategorized/vim_vundle.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.045Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heysoyl.com/zh-cn/Swift/vapor_io.html</loc>
     
     <lastmod>2019-10-12T09:02:32.045Z</lastmod>
     
@@ -86,13 +93,6 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.043Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://heysoyl.com/zh-cn/Swift/swift_array_study.html</loc>
     
     <lastmod>2019-10-12T09:02:32.043Z</lastmod>
@@ -100,14 +100,21 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_parm.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.043Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_tookit_rmp_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.042Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_tookit_rmp_install.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_parm.html</loc>
     
     <lastmod>2019-10-12T09:02:32.042Z</lastmod>
     
@@ -128,13 +135,6 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_command.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
@@ -142,14 +142,21 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/Redis/macos_brew_redis.html</loc>
     
     <lastmod>2019-10-12T09:02:32.040Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/Redis/macos_brew_redis.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
     
     <lastmod>2019-10-12T09:02:32.040Z</lastmod>
     
@@ -170,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
+    <loc>https://heysoyl.com/zh-cn/Swift/mvvm_app.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/mvvm_app.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
     
@@ -205,14 +212,14 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     
@@ -233,14 +240,14 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/Vapor/APP/Mkit/mkit_api_doc.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/Loadrunner/Loadrunner_Error.html</loc>
     
     <lastmod>2019-10-12T09:02:32.035Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/Loadrunner/Loadrunner_Error.html</loc>
+    <loc>https://heysoyl.com/zh-cn/Swift/Vapor/APP/Mkit/mkit_api_doc.html</loc>
     
     <lastmod>2019-10-12T09:02:32.035Z</lastmod>
     
