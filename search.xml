@@ -31,7 +31,7 @@
       <link href="/zh-cn/uncategorized/xcode_iphone_test.html"/>
       <url>/zh-cn/uncategorized/xcode_iphone_test.html</url>
       
-        <content type="html"><![CDATA[<p>Xcode 进行真机调试</p><a id="more"></a><h2 id="登陆Xcode-Team"><a href="#登陆Xcode-Team" class="headerlink" title="登陆Xcode Team"></a>登陆Xcode Team</h2><p><img src="https://i.loli.net/2020/02/24/5RLKc7hfMiqXFGA.png" alt="5RLKc7hfMiqXFGA"></p><h2 id="链接手机"><a href="#链接手机" class="headerlink" title="链接手机"></a>链接手机</h2><p>Xcode菜单导航栏，选择 Window - Devices and Simulators</p><p>数据线链接手机，验证后会自动出现该手机信息，选中Connect via network 使手机可以无线测试</p><p><img src="https://i.loli.net/2020/02/24/DflwOk9cFdg3hUN.png" alt="DflwOk9cFdg3hUN"></p><h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>iOS工程中，选择该手机调试</p><p><img src="https://i.loli.net/2020/02/24/vrUTLD4mw7GKIPX.png" alt="vrUTLD4mw7GKIPX"></p>]]></content>
+        <content type="html"><![CDATA[<p>Xcode 进行真机调试</p><a id="more"></a><h2 id="登陆Xcode-Team"><a href="#登陆Xcode-Team" class="headerlink" title="登陆Xcode Team"></a>登陆Xcode Team</h2><p><img src="https://i.loli.net/2020/02/24/5RLKc7hfMiqXFGA.png" alt></p><h2 id="链接手机"><a href="#链接手机" class="headerlink" title="链接手机"></a>链接手机</h2><p>Xcode菜单导航栏，选择 Window - Devices and Simulators</p><p>数据线链接手机，验证后会自动出现该手机信息，选中Connect via network 使手机可以无线测试</p><p><img src="https://i.loli.net/2020/02/24/DflwOk9cFdg3hUN.png" alt></p><h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>iOS工程中，选择该手机调试</p><p><img src="https://i.loli.net/2020/02/24/vrUTLD4mw7GKIPX.png" alt></p>]]></content>
       
       
       
@@ -269,11 +269,11 @@
     
     
     <entry>
-      <title>Sketch 插件整理</title>
-      <link href="/zh-cn/APP/Sketch/Sketch_Plugins.html"/>
-      <url>/zh-cn/APP/Sketch/Sketch_Plugins.html</url>
+      <title>Sketch 快捷键</title>
+      <link href="/zh-cn/APP/Sketch/Sketch_key.html"/>
+      <url>/zh-cn/APP/Sketch/Sketch_key.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
       
       
       <categories>
@@ -290,11 +290,11 @@
     
     
     <entry>
-      <title>Sketch 快捷键</title>
-      <link href="/zh-cn/APP/Sketch/Sketch_key.html"/>
-      <url>/zh-cn/APP/Sketch/Sketch_key.html</url>
+      <title>Sketch 插件整理</title>
+      <link href="/zh-cn/APP/Sketch/Sketch_Plugins.html"/>
+      <url>/zh-cn/APP/Sketch/Sketch_Plugins.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
       
       
       <categories>
@@ -559,33 +559,6 @@
     
     
     <entry>
-      <title>MySQL参数学习</title>
-      <link href="/zh-cn/APP/MySQL/mysql_parm.html"/>
-      <url>/zh-cn/APP/MySQL/mysql_parm.html</url>
-      
-        <content type="html"><![CDATA[<h1 id="MySQL参数学习"><a href="#MySQL参数学习" class="headerlink" title="MySQL参数学习"></a>MySQL参数学习</h1><a id="more"></a><h1 id="mysqld-safe"><a href="#mysqld-safe" class="headerlink" title="[mysqld_safe]"></a>[mysqld_safe]</h1><p>pid-file=/usr/mysql/run/localhost.pid</p><blockquote><p>单独设置一个pid的存放地址，以保护不被误删</p></blockquote><h1 id="mysql"><a href="#mysql" class="headerlink" title="[mysql]"></a>[mysql]</h1><p>port=3306</p><blockquote><p>端口号</p></blockquote><p>default-character-set=utf8</p><blockquote><p>编码格式</p></blockquote><p>no-auto-rehash</p><blockquote><p>自动补全，如同linux下的table键</p></blockquote><h1 id="mysqld"><a href="#mysqld" class="headerlink" title="[mysqld]"></a>[mysqld]</h1><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><p>basedir=/usr/mysql</p><blockquote><p>MySQL主目录</p></blockquote><p>datadir=/usr/data</p><blockquote><p>mysql 全局数据文件及结构的存放位置；表数据（包括innodb引擎），索引，日志（除非单独设置）等文件都会存放在这里。</p></blockquote><p>tmpdir=/tmp</p><blockquote><p>创建临时表文件目录</p></blockquote><p>lc_messages=en_US</p><blockquote><p>生成文件的语言环境，建议为en_US</p></blockquote><p>lc_messages_dir=/u02/mysql/share</p><blockquote><p>语言环境文件路径</p></blockquote><p>socket=/u02/mysql/run/mysql.sock</p><blockquote><p>套字文件，保护不被误删，每次重启mysql都会重新创建，在[client]也要设置相同位置</p></blockquote><h2 id="日志"><a href="#日志" class="headerlink" title="日志"></a>日志</h2><h3 id="错误日志"><a href="#错误日志" class="headerlink" title="错误日志"></a>错误日志</h3><p>log_error=/u02/mysql/log/localhost.log</p><blockquote><p>指定Log错误文件路径</p></blockquote><h3 id="慢查询日志"><a href="#慢查询日志" class="headerlink" title="慢查询日志"></a>慢查询日志</h3><p>slow_query_log_file=/u02/mysql/log/slow.log</p><blockquote><p>指定慢查询日志文件路径</p></blockquote><p>slow_query_log=on</p><blockquote><p>开启慢查询日志“【OFF】是关闭日志”，用来分析执行时间较长的SQL</p></blockquote><p>long_query_time=2</p><blockquote><p>设置慢查询日志多长时间后才会记录，单位为s</p></blockquote><p>log_queries_not_using_indexes=on</p><blockquote><p>设置是否把没有使用索引的SQL放到慢查询日志中,off是没有开启,on是开</p></blockquote><h3 id="普通日志"><a href="#普通日志" class="headerlink" title="普通日志"></a>普通日志</h3><p>general_log=off</p><blockquote><p>是否开启普通日志，此参数开启后会记录MySQL所有执行sql记录，包括错误的sql，除特殊情况不建议开启</p></blockquote><p>general_log_file=/u02/mysql/log/general.log</p><blockquote><p>普通日志文件位置</p></blockquote><h3 id="Innodb设置"><a href="#Innodb设置" class="headerlink" title="Innodb设置"></a>Innodb设置</h3><p>innodb_data_home_dir=/u02/data</p><blockquote><p>innodb引擎的共享表空间数据文件根目录</p></blockquote><p>innodb_data_file_path=ibdata1:512M;ibdata2:16M:autoextend</p><blockquote><p>指定了所有InnoDB数据文件初始大小分配，最大分配以及超出起始分配界线时是否应当增加文件的大小，位置由innodb_data_home_dir指定。</p></blockquote><p>innodb_log_group_home_dir=/u02/data</p><blockquote><p>此参数确定日志文件组中的文件的位置，日志组中文件的个数由innodb_log_files_in_group确定，此位置设置默认为MySQL的datadir </p></blockquote><p>innodb_log_files_in_group=2</p><blockquote><p>为提高性能，MySQL可以以循环方式将日志文件写到多个文件。推荐设置为2M</p></blockquote><p>innodb_buffer_pool_size=200M</p><blockquote><p>如果只用innodb的话可使用70%的可用内存，建议不要超过80%，否则会影响swap</p></blockquote><p>innodb_buffer_pool_instances=4</p><blockquote><p>可以开启多少个内存缓冲池，与size搭配使用，大的size建议instances设置为1.</p></blockquote><p>innodb_log_file_size=200M</p><blockquote><p>日志文件的大小，此参数越大性能越好，但会增加故障恢复所用时间。依据服务器使用情况设置，推荐设置为0.25 * innodb_buffer_pool_size</p></blockquote><p>innodb_log_buffer_size=5M</p><blockquote><p>确定些日志文件所用的内存大小，以M为单位。缓冲区更大能提高性能，但意外的故障将会丢失数据。如果它的值设置太高了，可能会浪费内存 ，它每秒都会刷新一次，因此无需设置超过1秒所需的内存空间。</p></blockquote><p>innodb_flush_log_at_trx_commit=1</p><blockquote><p>参数可供选择0-1-2，0时性能最好，2时安全性最高，默认选中1</p></blockquote><p>innodb_additional_mem_pool_size=20M</p><blockquote><p>设置 InnoDB 存储的数据目录信息和其它内部数据结构的内存池大小，根据项目的InnoDB表的数目相应地增加。参数对系统整体性能并无太大的影响，所以只要能存放需要的数据即可。推荐1/200*buffer_pool</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> APP </category>
-          
-          <category> MySQL </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Optimize </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>CentOS7下Redis安装</title>
       <link href="/zh-cn/APP/Redis/CentOS7_Redis_install.html"/>
       <url>/zh-cn/APP/Redis/CentOS7_Redis_install.html</url>
@@ -605,6 +578,33 @@
         <tags>
             
             <tag> Install </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MySQL参数学习</title>
+      <link href="/zh-cn/APP/MySQL/mysql_parm.html"/>
+      <url>/zh-cn/APP/MySQL/mysql_parm.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="MySQL参数学习"><a href="#MySQL参数学习" class="headerlink" title="MySQL参数学习"></a>MySQL参数学习</h1><a id="more"></a><h1 id="mysqld-safe"><a href="#mysqld-safe" class="headerlink" title="[mysqld_safe]"></a>[mysqld_safe]</h1><p>pid-file=/usr/mysql/run/localhost.pid</p><blockquote><p>单独设置一个pid的存放地址，以保护不被误删</p></blockquote><h1 id="mysql"><a href="#mysql" class="headerlink" title="[mysql]"></a>[mysql]</h1><p>port=3306</p><blockquote><p>端口号</p></blockquote><p>default-character-set=utf8</p><blockquote><p>编码格式</p></blockquote><p>no-auto-rehash</p><blockquote><p>自动补全，如同linux下的table键</p></blockquote><h1 id="mysqld"><a href="#mysqld" class="headerlink" title="[mysqld]"></a>[mysqld]</h1><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><p>basedir=/usr/mysql</p><blockquote><p>MySQL主目录</p></blockquote><p>datadir=/usr/data</p><blockquote><p>mysql 全局数据文件及结构的存放位置；表数据（包括innodb引擎），索引，日志（除非单独设置）等文件都会存放在这里。</p></blockquote><p>tmpdir=/tmp</p><blockquote><p>创建临时表文件目录</p></blockquote><p>lc_messages=en_US</p><blockquote><p>生成文件的语言环境，建议为en_US</p></blockquote><p>lc_messages_dir=/u02/mysql/share</p><blockquote><p>语言环境文件路径</p></blockquote><p>socket=/u02/mysql/run/mysql.sock</p><blockquote><p>套字文件，保护不被误删，每次重启mysql都会重新创建，在[client]也要设置相同位置</p></blockquote><h2 id="日志"><a href="#日志" class="headerlink" title="日志"></a>日志</h2><h3 id="错误日志"><a href="#错误日志" class="headerlink" title="错误日志"></a>错误日志</h3><p>log_error=/u02/mysql/log/localhost.log</p><blockquote><p>指定Log错误文件路径</p></blockquote><h3 id="慢查询日志"><a href="#慢查询日志" class="headerlink" title="慢查询日志"></a>慢查询日志</h3><p>slow_query_log_file=/u02/mysql/log/slow.log</p><blockquote><p>指定慢查询日志文件路径</p></blockquote><p>slow_query_log=on</p><blockquote><p>开启慢查询日志“【OFF】是关闭日志”，用来分析执行时间较长的SQL</p></blockquote><p>long_query_time=2</p><blockquote><p>设置慢查询日志多长时间后才会记录，单位为s</p></blockquote><p>log_queries_not_using_indexes=on</p><blockquote><p>设置是否把没有使用索引的SQL放到慢查询日志中,off是没有开启,on是开</p></blockquote><h3 id="普通日志"><a href="#普通日志" class="headerlink" title="普通日志"></a>普通日志</h3><p>general_log=off</p><blockquote><p>是否开启普通日志，此参数开启后会记录MySQL所有执行sql记录，包括错误的sql，除特殊情况不建议开启</p></blockquote><p>general_log_file=/u02/mysql/log/general.log</p><blockquote><p>普通日志文件位置</p></blockquote><h3 id="Innodb设置"><a href="#Innodb设置" class="headerlink" title="Innodb设置"></a>Innodb设置</h3><p>innodb_data_home_dir=/u02/data</p><blockquote><p>innodb引擎的共享表空间数据文件根目录</p></blockquote><p>innodb_data_file_path=ibdata1:512M;ibdata2:16M:autoextend</p><blockquote><p>指定了所有InnoDB数据文件初始大小分配，最大分配以及超出起始分配界线时是否应当增加文件的大小，位置由innodb_data_home_dir指定。</p></blockquote><p>innodb_log_group_home_dir=/u02/data</p><blockquote><p>此参数确定日志文件组中的文件的位置，日志组中文件的个数由innodb_log_files_in_group确定，此位置设置默认为MySQL的datadir </p></blockquote><p>innodb_log_files_in_group=2</p><blockquote><p>为提高性能，MySQL可以以循环方式将日志文件写到多个文件。推荐设置为2M</p></blockquote><p>innodb_buffer_pool_size=200M</p><blockquote><p>如果只用innodb的话可使用70%的可用内存，建议不要超过80%，否则会影响swap</p></blockquote><p>innodb_buffer_pool_instances=4</p><blockquote><p>可以开启多少个内存缓冲池，与size搭配使用，大的size建议instances设置为1.</p></blockquote><p>innodb_log_file_size=200M</p><blockquote><p>日志文件的大小，此参数越大性能越好，但会增加故障恢复所用时间。依据服务器使用情况设置，推荐设置为0.25 * innodb_buffer_pool_size</p></blockquote><p>innodb_log_buffer_size=5M</p><blockquote><p>确定些日志文件所用的内存大小，以M为单位。缓冲区更大能提高性能，但意外的故障将会丢失数据。如果它的值设置太高了，可能会浪费内存 ，它每秒都会刷新一次，因此无需设置超过1秒所需的内存空间。</p></blockquote><p>innodb_flush_log_at_trx_commit=1</p><blockquote><p>参数可供选择0-1-2，0时性能最好，2时安全性最高，默认选中1</p></blockquote><p>innodb_additional_mem_pool_size=20M</p><blockquote><p>设置 InnoDB 存储的数据目录信息和其它内部数据结构的内存池大小，根据项目的InnoDB表的数目相应地增加。参数对系统整体性能并无太大的影响，所以只要能存放需要的数据即可。推荐1/200*buffer_pool</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> APP </category>
+          
+          <category> MySQL </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Optimize </tag>
             
         </tags>
       

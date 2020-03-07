@@ -13,13 +13,13 @@
     <loc>https://heysoyl.com/zh-cn/APP/Docker/docker-compose-no.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
+    <loc>https://heysoyl.com/zh-cn/Swift/vapor_io.html</loc>
+    <lastmod>2019-10-12</lastmod>
+  </url>  <url>
     <loc>https://heysoyl.com/zh-cn/Swift/vapor_url_response.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
     <loc>https://heysoyl.com/zh-cn/uncategorized/vim_vundle.html</loc>
-    <lastmod>2019-10-12</lastmod>
-  </url>  <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/vapor_io.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
     <loc>https://heysoyl.com/zh-cn/Swift/swift_dicrionary.html</loc>
@@ -37,13 +37,16 @@
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_tookit_rmp_install.html</loc>
-    <lastmod>2019-10-12</lastmod>
-  </url>  <url>
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_parm.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_tookit_rmp_install.html</loc>
+    <lastmod>2019-10-12</lastmod>
+  </url>  <url>
     <loc>https://heysoyl.com/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
+    <lastmod>2019-10-12</lastmod>
+  </url>  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
     <loc>https://heysoyl.com/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
@@ -52,16 +55,13 @@
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_command.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
-    <lastmod>2019-10-12</lastmod>
-  </url>  <url>
-    <loc>https://heysoyl.com/zh-cn/APP/Redis/macos_brew_redis.html</loc>
-    <lastmod>2019-10-12</lastmod>
-  </url>  <url>
     <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
     <loc>https://heysoyl.com/zh-cn/APP/Redis/CentOS7_Redis_install.html</loc>
+    <lastmod>2019-10-12</lastmod>
+  </url>  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/Redis/macos_brew_redis.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
     <loc>https://heysoyl.com/zh-cn/APP/Sketch/Sketch_Plugins.html</loc>
@@ -76,10 +76,10 @@
     <loc>https://heysoyl.com/zh-cn/Hexo/hexo_sitemap.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/http_api.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/Sketch/Sketch_key.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
-    <loc>https://heysoyl.com/zh-cn/APP/Sketch/Sketch_key.html</loc>
+    <loc>https://heysoyl.com/zh-cn/Swift/http_api.html</loc>
     <lastmod>2019-10-12</lastmod>
   </url>  <url>
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
