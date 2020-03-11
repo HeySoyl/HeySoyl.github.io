@@ -79,13 +79,6 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/swift_string.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.044Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://heysoyl.com/zh-cn/Swift/Vapor/Vapor_MySQL_Use.html</loc>
     
     <lastmod>2019-10-12T09:02:32.044Z</lastmod>
@@ -93,14 +86,21 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/swift_array_study.html</loc>
+    <loc>https://heysoyl.com/zh-cn/Swift/swift_string.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.044Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
     
     <lastmod>2019-10-12T09:02:32.043Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
+    <loc>https://heysoyl.com/zh-cn/Swift/swift_array_study.html</loc>
     
     <lastmod>2019-10-12T09:02:32.043Z</lastmod>
     
@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -145,13 +145,6 @@
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_command.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.040Z</lastmod>
     
   </url>
   
@@ -170,6 +163,13 @@
   </url>
   
   <url>
+    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.040Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://heysoyl.com/zh-cn/APP/Sketch/Sketch_Plugins.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
@@ -177,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
+    <loc>https://heysoyl.com/zh-cn/Swift/mvvm_app.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/mvvm_app.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
     
