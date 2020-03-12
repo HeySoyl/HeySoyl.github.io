@@ -107,13 +107,6 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_tookit_rmp_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.042Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_parm.html</loc>
     
     <lastmod>2019-10-12T09:02:32.042Z</lastmod>
@@ -121,9 +114,9 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_tookit_rmp_install.html</loc>
     
-    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
+    <lastmod>2019-10-12T09:02:32.042Z</lastmod>
     
   </url>
   
@@ -135,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_command.html</loc>
+    <loc>https://heysoyl.com/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -143,6 +136,13 @@
   
   <url>
     <loc>https://heysoyl.com/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/mysql_command.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -191,13 +191,6 @@
   </url>
   
   <url>
-    <loc>https://heysoyl.com/zh-cn/Swift/http_api.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.038Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://heysoyl.com/zh-cn/Hexo/hexo_sitemap.html</loc>
     
     <lastmod>2019-10-12T09:02:32.038Z</lastmod>
@@ -212,6 +205,20 @@
   </url>
   
   <url>
+    <loc>https://heysoyl.com/zh-cn/Swift/http_api.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.038Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://heysoyl.com/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.037Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://heysoyl.com/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
@@ -220,13 +227,6 @@
   
   <url>
     <loc>https://heysoyl.com/zh-cn/Git/Github/github_host.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.037Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://heysoyl.com/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     
