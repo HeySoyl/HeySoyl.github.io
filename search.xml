@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Homebrew命令</title>
+      <link href="/zh-cn/uncategorized/homebrew.html"/>
+      <url>/zh-cn/uncategorized/homebrew.html</url>
+      
+        <content type="html"><![CDATA[<a id="more"></a><h3 id="Homebrew完美卸载软件及其依赖包"><a href="#Homebrew完美卸载软件及其依赖包" class="headerlink" title="Homebrew完美卸载软件及其依赖包"></a>Homebrew完美卸载软件及其依赖包</h3><figure class="highlight shell"><table><tr><td class="code"><pre><span class="line">brew tap beeftornado/rmtree</span><br><span class="line">brew rmtree git  #卸载git及其依赖安装包</span><br><span class="line">brew cleanup</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SwiftUI  Picker</title>
       <link href="/zh-cn/SwiftUI/swiftui_picker.html"/>
       <url>/zh-cn/SwiftUI/swiftui_picker.html</url>
