@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/vapor_io.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/vapor_url_response.html</loc>
     
     <lastmod>2019-10-12T09:02:32.045Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/vapor_url_response.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/vapor_io.html</loc>
     
     <lastmod>2019-10-12T09:02:32.045Z</lastmod>
     
@@ -86,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/swift_dicrionary.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/swift_string.html</loc>
     
     <lastmod>2019-10-12T09:02:32.044Z</lastmod>
     
@@ -100,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/swift_string.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/swift_dicrionary.html</loc>
     
     <lastmod>2019-10-12T09:02:32.044Z</lastmod>
     
@@ -135,13 +135,6 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://soyl.tech/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
@@ -149,7 +142,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -163,6 +156,13 @@
   </url>
   
   <url>
+    <loc>https://soyl.tech/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
     
     <lastmod>2019-10-12T09:02:32.040Z</lastmod>
@@ -170,14 +170,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Redis/CentOS7_Redis_install.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/Redis/macos_brew_redis.html</loc>
     
     <lastmod>2019-10-12T09:02:32.040Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Redis/macos_brew_redis.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/Redis/CentOS7_Redis_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.040Z</lastmod>
     
@@ -254,14 +254,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Loadrunner/Loadrunner_Error.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/Vapor/APP/Mkit/mkit_api_doc.html</loc>
     
     <lastmod>2019-10-12T09:02:32.035Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/Vapor/APP/Mkit/mkit_api_doc.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/Loadrunner/Loadrunner_Error.html</loc>
     
     <lastmod>2019-10-12T09:02:32.035Z</lastmod>
     
