@@ -738,35 +738,6 @@
     
     
     <entry>
-      <title>MyEclipse2015项目报错Failed while installing Dynamic Web Module 2.5</title>
-      <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html"/>
-      <url>/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法"><a href="#错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法" class="headerlink" title="错误信息Failed while installing Dynamic Web Module 2.5解决方法"></a>错误信息Failed while installing Dynamic Web Module 2.5解决方法</h2><a id="more"></a><p>使用MyEclipse 2015从SVN检出代码后，项目无法放到Tomcat中，提示错误信息</p><blockquote><p>Failed while installing Dynamic Web Module 2.5</p></blockquote><p>解决方法是在MyEclipse中 ，右键项目选择“Properties”，找到“Project Facets”项</p><blockquote><p>找到 Dynamic Web Module ，把他后面的3.0改成 2.5</p></blockquote><p>再执行添加项目操作就可以将项目导入Tomcat中了。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> APP </category>
-          
-          <category> MyEclipse </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Failed </tag>
-            
-            <tag> Svn </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</title>
       <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html"/>
       <url>/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</url>
@@ -788,6 +759,35 @@
             <tag> Failed </tag>
             
             <tag> JDK </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MyEclipse2015项目报错Failed while installing Dynamic Web Module 2.5</title>
+      <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html"/>
+      <url>/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法"><a href="#错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法" class="headerlink" title="错误信息Failed while installing Dynamic Web Module 2.5解决方法"></a>错误信息Failed while installing Dynamic Web Module 2.5解决方法</h2><a id="more"></a><p>使用MyEclipse 2015从SVN检出代码后，项目无法放到Tomcat中，提示错误信息</p><blockquote><p>Failed while installing Dynamic Web Module 2.5</p></blockquote><p>解决方法是在MyEclipse中 ，右键项目选择“Properties”，找到“Project Facets”项</p><blockquote><p>找到 Dynamic Web Module ，把他后面的3.0改成 2.5</p></blockquote><p>再执行添加项目操作就可以将项目导入Tomcat中了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> APP </category>
+          
+          <category> MyEclipse </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Failed </tag>
+            
+            <tag> Svn </tag>
             
         </tags>
       
