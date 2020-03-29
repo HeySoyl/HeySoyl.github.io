@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://soyl.tech/zh-cn/Swift/Core-Data/FetchRequest/swift_coredata_fetchrequest.html</loc>
+    
+    <lastmod>2020-03-25T20:05:53.159Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://soyl.tech/zh-cn/uncategorized/homebrew.html</loc>
     
     <lastmod>2020-03-23T07:48:54.046Z</lastmod>
@@ -65,14 +72,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/vim_vundle.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/vapor_url_response.html</loc>
     
     <lastmod>2019-10-12T09:02:32.045Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/vapor_url_response.html</loc>
+    <loc>https://soyl.tech/zh-cn/uncategorized/vim_vundle.html</loc>
     
     <lastmod>2019-10-12T09:02:32.045Z</lastmod>
     
@@ -86,14 +93,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/swift_string.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/Vapor/Vapor_MySQL_Use.html</loc>
     
     <lastmod>2019-10-12T09:02:32.044Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/Vapor/Vapor_MySQL_Use.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/swift_string.html</loc>
     
     <lastmod>2019-10-12T09:02:32.044Z</lastmod>
     
@@ -128,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_command.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -149,7 +156,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_command.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -177,13 +184,6 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.039Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://soyl.tech/zh-cn/APP/Sketch/Sketch_Plugins.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
@@ -194,6 +194,20 @@
     <loc>https://soyl.tech/zh-cn/Swift/mvvm_app.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.039Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/zh-cn/Hexo/hexo_sitemap.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.038Z</lastmod>
     
   </url>
   
@@ -212,21 +226,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Hexo/hexo_sitemap.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     

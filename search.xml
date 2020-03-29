@@ -17,6 +17,35 @@
     
     
     <entry>
+      <title>Swift CoreData @FetchRequest</title>
+      <link href="/zh-cn/Swift/Core-Data/FetchRequest/swift_coredata_fetchrequest.html"/>
+      <url>/zh-cn/Swift/Core-Data/FetchRequest/swift_coredata_fetchrequest.html</url>
+      
+        <content type="html"><![CDATA[<a id="more"></a><figure class="highlight swift"><table><tr><td class="code"><pre><span class="line">@<span class="type">FetchRequest</span>(</span><br><span class="line">    entity: <span class="type">UserInfo</span>.entity(),</span><br><span class="line">    sortDescriptors: [</span><br><span class="line">        <span class="type">NSSortDescriptor</span>(keyPath: \<span class="type">UserInfo</span>.name, ascending: <span class="literal">true</span>)</span><br><span class="line">    ],</span><br><span class="line">    predicate: <span class="type">NSPredicate</span>(format: <span class="string">"name == %@"</span>, <span class="string">"Lilei"</span>))</span><br><span class="line">) <span class="keyword">var</span> userinfoes: <span class="type">FetchedResults</span>&lt;<span class="type">UserInfo</span>&gt;</span><br></pre></td></tr></table></figure><h4 id="NSPredicate"><a href="#NSPredicate" class="headerlink" title="NSPredicate"></a>NSPredicate</h4><blockquote><p>描述了一个过滤器，我们将使用它来决定显示哪些结果</p></blockquote><figure class="highlight swift"><table><tr><td class="code"><pre><span class="line"><span class="type">NSPredicate</span>(format: <span class="string">"name == %@"</span>, <span class="string">"LiLei"</span>)</span><br></pre></td></tr></table></figure><h4 id="NSSortDescriptor"><a href="#NSSortDescriptor" class="headerlink" title="NSSortDescriptor"></a>NSSortDescriptor</h4><blockquote><p>告诉我们要在哪个字段上进行排序，以及我们要它递增还是递减</p></blockquote><figure class="highlight swift"><table><tr><td class="code"><pre><span class="line"><span class="type">NSSortDescriptor</span>(keyPath: \<span class="type">UserInfo</span>.name, ascending: <span class="literal">true</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Swift </category>
+          
+          <category> Core Data </category>
+          
+          <category> FetchRequest </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Swift </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SwiftUI  Picker</title>
       <link href="/zh-cn/SwiftUI/swiftui_picker.html"/>
       <url>/zh-cn/SwiftUI/swiftui_picker.html</url>
@@ -284,11 +313,11 @@
     
     
     <entry>
-      <title>Sketch 快捷键</title>
-      <link href="/zh-cn/APP/Sketch/Sketch_key.html"/>
-      <url>/zh-cn/APP/Sketch/Sketch_key.html</url>
+      <title>Sketch 插件整理</title>
+      <link href="/zh-cn/APP/Sketch/Sketch_Plugins.html"/>
+      <url>/zh-cn/APP/Sketch/Sketch_Plugins.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
       
       
       <categories>
@@ -305,11 +334,11 @@
     
     
     <entry>
-      <title>Sketch 插件整理</title>
-      <link href="/zh-cn/APP/Sketch/Sketch_Plugins.html"/>
-      <url>/zh-cn/APP/Sketch/Sketch_Plugins.html</url>
+      <title>Sketch 快捷键</title>
+      <link href="/zh-cn/APP/Sketch/Sketch_key.html"/>
+      <url>/zh-cn/APP/Sketch/Sketch_key.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
       
       
       <categories>
@@ -709,35 +738,6 @@
     
     
     <entry>
-      <title>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</title>
-      <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html"/>
-      <url>/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"><a href="#MyEclipse2015启动Tomcat中项目时报错HttpSession出错" class="headerlink" title="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"></a>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</h2><a id="more"></a><p>Tomcat中项目时报错HttpSession出错，如下</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mj_oto_edus_auto_new]]</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSession</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSessionBindingEvent</span><br><span class="line">************************************</span><br></pre></td></tr></table></figure><p>百度搜索HttpSession的信息,百科对它的简单介绍是Java的一个接口。</p><blockquote><p>HttpSession是Java平台对session机制的实现规范，因为它仅仅是个接口，具体到每个web应用服务器的提供商，除了对规范支持之外，仍然会有一些规范里没有规定的细微差异。</p></blockquote><h4 id="HttpSession-Java-EE-5-SDK"><a href="#HttpSession-Java-EE-5-SDK" class="headerlink" title="HttpSession (Java EE 5 SDK)"></a><a href="http://www.baidu.com/link?url=qVAKkg9VvrY8jxVRdnzq9pMkL4ohgErwtvWY9PNUTF0K7fbY2rjd3uErWygKyqjYXB7tmNMMVy-wCQyO9u67yTK5Dc0LjR9aGaHlbaKOTgC0iEGz_WJaemVRAg-rYfsC&wd=&eqid=835b47ba000119cc00000003572af1b5" target="_blank" rel="noopener"><em>HttpSession</em> (Java EE 5 SDK)</a></h4><p>发现原来他是在Java EE 5中，于是在MyEclipse中Libraries中加上“JavaEE 5.0 Generic Library”，继续执行项目，项目继续报错，缺少jstl。<br>查看“JavaEE 5.0 Generic Library”发现其中只有一个“javaee.jar”,于是在MyEclipse的目录中找到“javaee.jar”所在的目录，发现其中有个文件README.txt</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">This folder contains libraries obtained from the Sun JEE5 Referene SDK.  </span><br><span class="line">http:<span class="comment">//java.sun.com/javaee/downloads/index.jsp</span></span><br><span class="line">The license <span class="keyword">for</span> these <span class="number">3</span> jar libraries is also contained in <span class="keyword">this</span> folder.</span><br><span class="line"></span><br><span class="line">The JSF <span class="number">1.2</span> <span class="function">implementation <span class="title">files</span> <span class="params">(jsf-impl.jar, jsf-api.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//javaserverfaces.dev.java.net/files/documents/1866/52042/jsf-1.2_04-b07-FCS.zip</span></span></span><br><span class="line"><span class="function"></span></span><br><span class="line"><span class="function">The JSTL 1.2 implementation files: <span class="params">(jstl<span class="number">-1.2</span>.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//maven-repository.dev.java.net/repository/jstl/jars/jstl-1.2.jar</span></span></span><br></pre></td></tr></table></figure><p>发现原来还少jsf-impl.jar, jsf-api.jar，jstl-1.2.jar这三个文件<br>于是继续在Library中添加JSF Mojarra 1.2_04 Libraries,JSTL 1.2 Library两项。</p><blockquote><p>JSF Mojarra 1.2_04 Libraries 包含jsf-impl.jar, jsf-api.jar<br>JSTL 1.2 Library 包含jstl-1.2.jar</p></blockquote><p>然后运行Tomcat，问题解决</p><p>我是在MyEclipse 2015使用的，其他版本的不清楚，也可以直接下载到本地，加载到项目中。</p><blockquote><p>百度网盘链接: <a href="http://pan.baidu.com/s/1gfNhWcz" target="_blank" rel="noopener">http://pan.baidu.com/s/1gfNhWcz</a> 密码: r39f</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> APP </category>
-          
-          <category> MyEclipse </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Failed </tag>
-            
-            <tag> JDK </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>MyEclipse2015项目报错Failed while installing Dynamic Web Module 2.5</title>
       <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html"/>
       <url>/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</url>
@@ -759,6 +759,35 @@
             <tag> Failed </tag>
             
             <tag> Svn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</title>
+      <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html"/>
+      <url>/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"><a href="#MyEclipse2015启动Tomcat中项目时报错HttpSession出错" class="headerlink" title="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"></a>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</h2><a id="more"></a><p>Tomcat中项目时报错HttpSession出错，如下</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mj_oto_edus_auto_new]]</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSession</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSessionBindingEvent</span><br><span class="line">************************************</span><br></pre></td></tr></table></figure><p>百度搜索HttpSession的信息,百科对它的简单介绍是Java的一个接口。</p><blockquote><p>HttpSession是Java平台对session机制的实现规范，因为它仅仅是个接口，具体到每个web应用服务器的提供商，除了对规范支持之外，仍然会有一些规范里没有规定的细微差异。</p></blockquote><h4 id="HttpSession-Java-EE-5-SDK"><a href="#HttpSession-Java-EE-5-SDK" class="headerlink" title="HttpSession (Java EE 5 SDK)"></a><a href="http://www.baidu.com/link?url=qVAKkg9VvrY8jxVRdnzq9pMkL4ohgErwtvWY9PNUTF0K7fbY2rjd3uErWygKyqjYXB7tmNMMVy-wCQyO9u67yTK5Dc0LjR9aGaHlbaKOTgC0iEGz_WJaemVRAg-rYfsC&wd=&eqid=835b47ba000119cc00000003572af1b5" target="_blank" rel="noopener"><em>HttpSession</em> (Java EE 5 SDK)</a></h4><p>发现原来他是在Java EE 5中，于是在MyEclipse中Libraries中加上“JavaEE 5.0 Generic Library”，继续执行项目，项目继续报错，缺少jstl。<br>查看“JavaEE 5.0 Generic Library”发现其中只有一个“javaee.jar”,于是在MyEclipse的目录中找到“javaee.jar”所在的目录，发现其中有个文件README.txt</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">This folder contains libraries obtained from the Sun JEE5 Referene SDK.  </span><br><span class="line">http:<span class="comment">//java.sun.com/javaee/downloads/index.jsp</span></span><br><span class="line">The license <span class="keyword">for</span> these <span class="number">3</span> jar libraries is also contained in <span class="keyword">this</span> folder.</span><br><span class="line"></span><br><span class="line">The JSF <span class="number">1.2</span> <span class="function">implementation <span class="title">files</span> <span class="params">(jsf-impl.jar, jsf-api.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//javaserverfaces.dev.java.net/files/documents/1866/52042/jsf-1.2_04-b07-FCS.zip</span></span></span><br><span class="line"><span class="function"></span></span><br><span class="line"><span class="function">The JSTL 1.2 implementation files: <span class="params">(jstl<span class="number">-1.2</span>.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//maven-repository.dev.java.net/repository/jstl/jars/jstl-1.2.jar</span></span></span><br></pre></td></tr></table></figure><p>发现原来还少jsf-impl.jar, jsf-api.jar，jstl-1.2.jar这三个文件<br>于是继续在Library中添加JSF Mojarra 1.2_04 Libraries,JSTL 1.2 Library两项。</p><blockquote><p>JSF Mojarra 1.2_04 Libraries 包含jsf-impl.jar, jsf-api.jar<br>JSTL 1.2 Library 包含jstl-1.2.jar</p></blockquote><p>然后运行Tomcat，问题解决</p><p>我是在MyEclipse 2015使用的，其他版本的不清楚，也可以直接下载到本地，加载到项目中。</p><blockquote><p>百度网盘链接: <a href="http://pan.baidu.com/s/1gfNhWcz" target="_blank" rel="noopener">http://pan.baidu.com/s/1gfNhWcz</a> 密码: r39f</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> APP </category>
+          
+          <category> MyEclipse </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Failed </tag>
+            
+            <tag> JDK </tag>
             
         </tags>
       
