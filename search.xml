@@ -326,11 +326,11 @@
     
     
     <entry>
-      <title>Sketch 快捷键</title>
-      <link href="/zh-cn/APP/Sketch/Sketch_key.html"/>
-      <url>/zh-cn/APP/Sketch/Sketch_key.html</url>
+      <title>Sketch 插件整理</title>
+      <link href="/zh-cn/APP/Sketch/Sketch_Plugins.html"/>
+      <url>/zh-cn/APP/Sketch/Sketch_Plugins.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
       
       
       <categories>
@@ -347,11 +347,11 @@
     
     
     <entry>
-      <title>Sketch 插件整理</title>
-      <link href="/zh-cn/APP/Sketch/Sketch_Plugins.html"/>
-      <url>/zh-cn/APP/Sketch/Sketch_Plugins.html</url>
+      <title>Sketch 快捷键</title>
+      <link href="/zh-cn/APP/Sketch/Sketch_key.html"/>
+      <url>/zh-cn/APP/Sketch/Sketch_key.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
       
       
       <categories>
@@ -751,35 +751,6 @@
     
     
     <entry>
-      <title>MyEclipse2015项目报错Failed while installing Dynamic Web Module 2.5</title>
-      <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html"/>
-      <url>/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法"><a href="#错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法" class="headerlink" title="错误信息Failed while installing Dynamic Web Module 2.5解决方法"></a>错误信息Failed while installing Dynamic Web Module 2.5解决方法</h2><a id="more"></a><p>使用MyEclipse 2015从SVN检出代码后，项目无法放到Tomcat中，提示错误信息</p><blockquote><p>Failed while installing Dynamic Web Module 2.5</p></blockquote><p>解决方法是在MyEclipse中 ，右键项目选择“Properties”，找到“Project Facets”项</p><blockquote><p>找到 Dynamic Web Module ，把他后面的3.0改成 2.5</p></blockquote><p>再执行添加项目操作就可以将项目导入Tomcat中了。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> APP </category>
-          
-          <category> MyEclipse </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Failed </tag>
-            
-            <tag> Svn </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</title>
       <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html"/>
       <url>/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</url>
@@ -801,6 +772,35 @@
             <tag> Failed </tag>
             
             <tag> JDK </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MyEclipse2015项目报错Failed while installing Dynamic Web Module 2.5</title>
+      <link href="/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html"/>
+      <url>/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法"><a href="#错误信息Failed-while-installing-Dynamic-Web-Module-2-5解决方法" class="headerlink" title="错误信息Failed while installing Dynamic Web Module 2.5解决方法"></a>错误信息Failed while installing Dynamic Web Module 2.5解决方法</h2><a id="more"></a><p>使用MyEclipse 2015从SVN检出代码后，项目无法放到Tomcat中，提示错误信息</p><blockquote><p>Failed while installing Dynamic Web Module 2.5</p></blockquote><p>解决方法是在MyEclipse中 ，右键项目选择“Properties”，找到“Project Facets”项</p><blockquote><p>找到 Dynamic Web Module ，把他后面的3.0改成 2.5</p></blockquote><p>再执行添加项目操作就可以将项目导入Tomcat中了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> APP </category>
+          
+          <category> MyEclipse </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Failed </tag>
+            
+            <tag> Svn </tag>
             
         </tags>
       
