@@ -177,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Redis/CentOS7_Redis_install.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
     
     <lastmod>2019-10-12T09:02:32.040Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/Redis/CentOS7_Redis_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.040Z</lastmod>
     
@@ -205,13 +205,6 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.039Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://soyl.tech/zh-cn/Swift/mvvm_app.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
@@ -219,14 +212,21 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/http_api.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.039Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/zh-cn/APP/Sketch/Sketch_key.html</loc>
     
     <lastmod>2019-10-12T09:02:32.038Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Sketch/Sketch_key.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/http_api.html</loc>
     
     <lastmod>2019-10-12T09:02:32.038Z</lastmod>
     
@@ -240,6 +240,13 @@
   </url>
   
   <url>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.037Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://soyl.tech/zh-cn/Git/Github/github_host.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
@@ -248,13 +255,6 @@
   
   <url>
     <loc>https://soyl.tech/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.037Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     
