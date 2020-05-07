@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://soyl.tech/zh-cn/uncategorized/yonghuxieyi.html</loc>
+    
+    <lastmod>2020-05-07T04:37:01.116Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/zh-cn/uncategorized/cloudkit_question.html</loc>
+    
+    <lastmod>2020-04-22T13:14:36.626Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://soyl.tech/zh-cn/uncategorized/URLSession.html</loc>
     
     <lastmod>2020-03-30T02:41:32.992Z</lastmod>
@@ -121,13 +135,6 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.043Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://soyl.tech/zh-cn/Swift/swift_array_study.html</loc>
     
     <lastmod>2019-10-12T09:02:32.043Z</lastmod>
@@ -135,9 +142,9 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_parm.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
     
-    <lastmod>2019-10-12T09:02:32.042Z</lastmod>
+    <lastmod>2019-10-12T09:02:32.043Z</lastmod>
     
   </url>
   
@@ -149,7 +156,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_parm.html</loc>
+    
+    <lastmod>2019-10-12T09:02:32.042Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -163,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_command.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_command.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -198,7 +212,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/mvvm_app.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
     
@@ -212,7 +226,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/mvvm_app.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
     
     <lastmod>2019-10-12T09:02:32.039Z</lastmod>
     
@@ -247,14 +261,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
+    <loc>https://soyl.tech/zh-cn/Git/Github/github_host.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Git/Github/github_host.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
     
     <lastmod>2019-10-12T09:02:32.037Z</lastmod>
     
