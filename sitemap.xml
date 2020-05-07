@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://soyl.tech/zh-cn/uncategorized/iDevil.html</loc>
+    
+    <lastmod>2020-05-07T04:43:28.912Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://soyl.tech/zh-cn/uncategorized/yonghuxieyi.html</loc>
     
     <lastmod>2020-05-07T04:37:01.116Z</lastmod>
@@ -121,14 +128,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/Vapor/Vapor_MySQL_Use.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/swift_string.html</loc>
     
     <lastmod>2019-10-12T09:02:32.044Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/swift_string.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/Vapor/Vapor_MySQL_Use.html</loc>
     
     <lastmod>2019-10-12T09:02:32.044Z</lastmod>
     
@@ -163,7 +170,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -177,7 +184,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
+    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
     
     <lastmod>2019-10-12T09:02:32.041Z</lastmod>
     
@@ -233,14 +240,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Hexo/hexo_sitemap.html</loc>
+    <loc>https://soyl.tech/zh-cn/Swift/http_api.html</loc>
     
     <lastmod>2019-10-12T09:02:32.038Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/http_api.html</loc>
+    <loc>https://soyl.tech/zh-cn/Hexo/hexo_sitemap.html</loc>
     
     <lastmod>2019-10-12T09:02:32.038Z</lastmod>
     
