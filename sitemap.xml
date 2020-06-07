@@ -2,30 +2,268 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/iDevil.html</loc>
+    <loc>https://soyl.tech/Swift/swift_dicrionary.html</loc>
     
-    <lastmod>2020-05-07T04:43:28.912Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/yonghuxieyi.html</loc>
-    
-    <lastmod>2020-05-07T04:37:01.116Z</lastmod>
+    <lastmod>2020-06-07T08:42:32.832Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/cloudkit_question.html</loc>
+    <loc>https://soyl.tech/Swift/Vapor/APP/Mkit/mkit_api_data_doc.html</loc>
     
-    <lastmod>2020-04-22T13:14:36.626Z</lastmod>
+    <lastmod>2020-06-07T08:41:19.570Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/URLSession.html</loc>
+    <loc>https://soyl.tech/Swift/Vapor/APP/Mkit/mkit_api_doc.html</loc>
     
-    <lastmod>2020-03-30T02:41:32.992Z</lastmod>
+    <lastmod>2020-06-07T08:41:13.938Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Hexo/hexo_sitemap.html</loc>
+    
+    <lastmod>2020-06-07T08:41:01.659Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/http_api.html</loc>
+    
+    <lastmod>2020-06-07T08:40:55.310Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/Sketch/Sketch_key.html</loc>
+    
+    <lastmod>2020-06-07T08:40:50.171Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/Sketch/Sketch_Plugins.html</loc>
+    
+    <lastmod>2020-06-07T08:40:44.489Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/mvvm_app.html</loc>
+    
+    <lastmod>2020-06-07T08:40:37.939Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
+    
+    <lastmod>2020-06-07T08:40:30.687Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
+    
+    <lastmod>2020-06-07T08:40:19.740Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MongoDB/linux_mongodb.html</loc>
+    
+    <lastmod>2020-06-07T08:40:12.611Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MongoDB/windows_mongodb_install.html</loc>
+    
+    <lastmod>2020-06-07T08:40:05.795Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MySQL/mysql_command.html</loc>
+    
+    <lastmod>2020-06-07T08:39:59.489Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/swift_array_study.html</loc>
+    
+    <lastmod>2020-06-07T08:39:48.352Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/swift_string.html</loc>
+    
+    <lastmod>2020-06-07T08:39:37.991Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/vapor_io.html</loc>
+    
+    <lastmod>2020-06-07T08:39:30.710Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/vapor_url_response.html</loc>
+    
+    <lastmod>2020-06-07T08:39:25.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/SwiftUI/swiftui_picker.html</loc>
+    
+    <lastmod>2020-06-07T08:39:12.375Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/uncategorized/homebrew.html</loc>
+    
+    <lastmod>2020-06-07T08:39:05.324Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/Core-Data/FetchRequest/swift_coredata_fetchrequest.html</loc>
+    
+    <lastmod>2020-06-07T08:38:59.125Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/uncategorized/URLSession.html</loc>
+    
+    <lastmod>2020-06-07T08:38:53.291Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/uncategorized/cloudkit_question.html</loc>
+    
+    <lastmod>2020-06-07T08:38:48.463Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/uncategorized/yonghuxieyi.html</loc>
+    
+    <lastmod>2020-06-07T08:35:37.737Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MySQL/windows_mysql_install.html</loc>
+    
+    <lastmod>2020-06-07T08:35:32.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/uncategorized/vim_vundle.html</loc>
+    
+    <lastmod>2020-06-07T08:35:27.665Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Swift/Vapor/Vapor_MySQL_Use.html</loc>
+    
+    <lastmod>2020-06-07T08:35:21.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
+    
+    <lastmod>2020-06-07T08:35:14.175Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MySQL/centos_tookit_rmp_install.html</loc>
+    
+    <lastmod>2020-06-07T08:35:08.758Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MySQL/mysql_parm.html</loc>
+    
+    <lastmod>2020-06-07T08:35:03.408Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/Redis/macos_brew_redis.html</loc>
+    
+    <lastmod>2020-06-07T08:34:57.837Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/Loadrunner/Loadrunner_Error.html</loc>
+    
+    <lastmod>2020-06-07T08:34:53.237Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/Redis/CentOS7_Redis_install.html</loc>
+    
+    <lastmod>2020-06-07T08:34:48.384Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
+    
+    <lastmod>2020-06-07T08:34:43.436Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Git/Github/github_host.html</loc>
+    
+    <lastmod>2020-06-07T08:34:37.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/MySQL/centos_mysql_install.html</loc>
+    
+    <lastmod>2020-06-07T08:34:31.565Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Git/ssh_key.html</loc>
+    
+    <lastmod>2020-06-07T08:34:23.558Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/APP/Docker/docker-compose-no.html</loc>
+    
+    <lastmod>2020-06-07T08:34:18.543Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/idevil/index.html</loc>
+    
+    <lastmod>2020-06-07T08:33:57.244Z</lastmod>
     
   </url>
   
@@ -37,37 +275,9 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/Core-Data/FetchRequest/swift_coredata_fetchrequest.html</loc>
-    
-    <lastmod>2020-03-25T20:05:53.159Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/homebrew.html</loc>
-    
-    <lastmod>2020-03-23T07:48:54.046Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/SwiftUI/swiftui_picker.html</loc>
-    
-    <lastmod>2020-03-11T16:21:05.578Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/xcode_iphone_test.html</loc>
+    <loc>https://soyl.tech/uncategorized/xcode_iphone_test.html</loc>
     
     <lastmod>2020-02-23T17:14:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Git/ssh_key.html</loc>
-    
-    <lastmod>2019-10-12T09:03:49.815Z</lastmod>
     
   </url>
   
@@ -86,13 +296,6 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/APP/Docker/docker-compose-no.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.046Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://soyl.tech/about/index.html</loc>
     
     <lastmod>2019-10-12T09:02:32.046Z</lastmod>
@@ -100,210 +303,7 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/zh-cn/Swift/vapor_io.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.045Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/vapor_url_response.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.045Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/uncategorized/vim_vundle.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.045Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/swift_dicrionary.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.044Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/swift_string.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.044Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/Vapor/Vapor_MySQL_Use.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.044Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/swift_array_study.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.043Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/Percona_Tookit_pt-query-digest.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.043Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/centos_tookit_rmp_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.042Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_parm.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.042Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/Shadowsocks/macos10_12_shadowsocks.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MongoDB/windows_mongodb_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MongoDB/linux_mongodb.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/mysql_command.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.041Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.040Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/Redis/CentOS7_Redis_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.040Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/Redis/macos_brew_redis.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.040Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/mvvm_app.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.039Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/Sketch/Sketch_Plugins.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.039Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.039Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/http_api.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Hexo/hexo_sitemap.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/Sketch/Sketch_key.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/windows_mysql_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.037Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Git/Github/github_host.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.037Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/MySQL/centos_mysql_install.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.037Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/Vapor/APP/Mkit/mkit_api_data_doc.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.036Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/Loadrunner/Loadrunner_Error.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.035Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/Swift/Vapor/APP/Mkit/mkit_api_doc.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.035Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://soyl.tech/zh-cn/APP/Terminal/Shadowsocks/terminal_ss.html</loc>
+    <loc>https://soyl.tech/APP/Terminal/Shadowsocks/terminal_ss.html</loc>
     
     <lastmod>2019-08-02T17:14:58.000Z</lastmod>
     
