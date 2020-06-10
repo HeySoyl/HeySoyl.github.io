@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://soyl.tech/uncategorized/baidu_url_submit.html</loc>
+    
+    <lastmod>2020-06-10T13:57:20.778Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://soyl.tech/uncategorized/yonghuxieyi.html</loc>
     
     <lastmod>2020-06-09T08:02:24.238Z</lastmod>
@@ -282,14 +289,14 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/categories/index.html</loc>
+    <loc>https://soyl.tech/tags/index.html</loc>
     
     <lastmod>2019-10-12T09:02:32.047Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://soyl.tech/tags/index.html</loc>
+    <loc>https://soyl.tech/categories/index.html</loc>
     
     <lastmod>2019-10-12T09:02:32.047Z</lastmod>
     

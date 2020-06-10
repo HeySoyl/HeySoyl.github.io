@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Hexo插件之百度主动提交链接</title>
+      <link href="/uncategorized/baidu_url_submit.html"/>
+      <url>/uncategorized/baidu_url_submit.html</url>
+      
+        <content type="html"><![CDATA[<p>百度如今不重视个人站点，使用sitemap推送提示一直等待中，找了好久找到了这个插件<a href="https://github.com/huiwang/hexo-baidu-url-submit">hexo-baidu-url-submit</a>. </p><a id="more"></a><h2 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h2><blockquote><p>npm install hexo-baidu-url-submit –save</p></blockquote><h2 id="在根目录config-yml文件里加入以下代码："><a href="#在根目录config-yml文件里加入以下代码：" class="headerlink" title="在根目录config.yml文件里加入以下代码："></a>在根目录<code>config.yml</code>文件里加入以下代码：</h2><figure class="highlight yml"><figcaption><span>_config.yml >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="attr">baidu_url_submit:</span></span><br><span class="line">  <span class="attr">count:</span> <span class="number">100</span> <span class="comment">## 提交最新的一个链接</span></span><br><span class="line">  <span class="attr">host:</span> <span class="string">soyl.tech</span> <span class="comment">## 在百度站长平台中注册的域名</span></span><br><span class="line">  <span class="attr">token:</span> <span class="string">*******</span> <span class="comment">## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">baidu_urls.txt</span> <span class="comment">## 文本文档的地址， 新链接会保存在此文本文档里</span></span><br></pre></td></tr></table></figure><p>其次，记得查看_config.ym文件中url的值， 必须包含是百度站长平台注册的域名（一般有www）， 比如:</p><figure class="highlight yml"><figcaption><span>_config.yml >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment"># URL</span></span><br><span class="line"><span class="attr">url:</span> <span class="string">https://soyl.tech</span></span><br><span class="line"><span class="attr">root:</span> <span class="string">/</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">:year/:month/:day/:title/</span></span><br></pre></td></tr></table></figure><h2 id="加入新的deployer"><a href="#加入新的deployer" class="headerlink" title="加入新的deployer:"></a>加入新的deployer:</h2><figure class="highlight yml"><figcaption><span>_config.yml >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line"><span class="bullet">-</span> <span class="attr">type:</span> <span class="string">git</span> <span class="comment">## 这是我原来的deployer</span></span><br><span class="line">  <span class="attr">repository:</span> <span class="string">git@github.com:HeySoyl/HeySoyl.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br><span class="line"><span class="bullet">-</span> <span class="attr">type:</span> <span class="string">baidu_url_submitter</span> <span class="comment">## 这是新加的</span></span><br></pre></td></tr></table></figure><h2 id="执行-hexo-d"><a href="#执行-hexo-d" class="headerlink" title="执行 hexo d"></a>执行 hexo d</h2><figure class="highlight shell"><figcaption><span>>unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line">INFO  Deploy done: git</span><br><span class="line">INFO  Deploying: baidu_url_submitter</span><br><span class="line">INFO  Submitting urls </span><br><span class="line">https://soyl.tech/uncategorized/yonghuxieyi.html</span><br><span class="line">https://soyl.tech/uncategorized/cloudkit_question.html</span><br><span class="line">&#123;"remain":2961,"success":39&#125;</span><br><span class="line">INFO  Deploy done: baidu_url_submitter</span><br></pre></td></tr></table></figure><p>看到”success”:39 表示提交成功了39条</p><blockquote><p>文章引用来源：<a href="https://hui-wang.info/2016/10/23/Hexo插件之百度主动提交链接/">王辉的博客</a></p></blockquote>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>用户协议</title>
       <link href="/uncategorized/yonghuxieyi.html"/>
       <url>/uncategorized/yonghuxieyi.html</url>
@@ -352,11 +365,11 @@
     
     
     <entry>
-      <title>Sketch 快捷键</title>
-      <link href="/APP/Sketch/Sketch_key.html"/>
-      <url>/APP/Sketch/Sketch_key.html</url>
+      <title>Sketch 插件整理</title>
+      <link href="/APP/Sketch/Sketch_Plugins.html"/>
+      <url>/APP/Sketch/Sketch_Plugins.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
       
       
       <categories>
@@ -373,11 +386,11 @@
     
     
     <entry>
-      <title>Sketch 插件整理</title>
-      <link href="/APP/Sketch/Sketch_Plugins.html"/>
-      <url>/APP/Sketch/Sketch_Plugins.html</url>
+      <title>Sketch 快捷键</title>
+      <link href="/APP/Sketch/Sketch_key.html"/>
+      <url>/APP/Sketch/Sketch_key.html</url>
       
-        <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<a id="more"></a><ol><li>a：尺寸模版工具栏</li><li></li></ol>]]></content>
       
       
       <categories>
@@ -777,35 +790,6 @@
     
     
     <entry>
-      <title>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</title>
-      <link href="/APP/MyEclipse/MyEclipse2015_HttpSession_error.html"/>
-      <url>/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</url>
-      
-        <content type="html"><![CDATA[<h2 id="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"><a href="#MyEclipse2015启动Tomcat中项目时报错HttpSession出错" class="headerlink" title="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"></a>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</h2><a id="more"></a><p>Tomcat中项目时报错HttpSession出错，如下</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mj_oto_edus_auto_new]]</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSession</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSessionBindingEvent</span><br><span class="line">************************************</span><br></pre></td></tr></table></figure><p>百度搜索HttpSession的信息,百科对它的简单介绍是Java的一个接口。</p><blockquote><p>HttpSession是Java平台对session机制的实现规范，因为它仅仅是个接口，具体到每个web应用服务器的提供商，除了对规范支持之外，仍然会有一些规范里没有规定的细微差异。</p></blockquote><h4 id="HttpSession-Java-EE-5-SDK"><a href="#HttpSession-Java-EE-5-SDK" class="headerlink" title="HttpSession (Java EE 5 SDK)"></a><a href="http://www.baidu.com/link?url=qVAKkg9VvrY8jxVRdnzq9pMkL4ohgErwtvWY9PNUTF0K7fbY2rjd3uErWygKyqjYXB7tmNMMVy-wCQyO9u67yTK5Dc0LjR9aGaHlbaKOTgC0iEGz_WJaemVRAg-rYfsC&wd=&eqid=835b47ba000119cc00000003572af1b5"><em>HttpSession</em> (Java EE 5 SDK)</a></h4><p>发现原来他是在Java EE 5中，于是在MyEclipse中Libraries中加上“JavaEE 5.0 Generic Library”，继续执行项目，项目继续报错，缺少jstl。<br>查看“JavaEE 5.0 Generic Library”发现其中只有一个“javaee.jar”,于是在MyEclipse的目录中找到“javaee.jar”所在的目录，发现其中有个文件README.txt</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">This folder contains libraries obtained from the Sun JEE5 Referene SDK.  </span><br><span class="line">http:<span class="comment">//java.sun.com/javaee/downloads/index.jsp</span></span><br><span class="line">The license <span class="keyword">for</span> these <span class="number">3</span> jar libraries is also contained in <span class="keyword">this</span> folder.</span><br><span class="line"></span><br><span class="line">The JSF <span class="number">1.2</span> <span class="function">implementation <span class="title">files</span> <span class="params">(jsf-impl.jar, jsf-api.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//javaserverfaces.dev.java.net/files/documents/1866/52042/jsf-1.2_04-b07-FCS.zip</span></span></span><br><span class="line"><span class="function"></span></span><br><span class="line"><span class="function">The JSTL 1.2 implementation files: <span class="params">(jstl<span class="number">-1.2</span>.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//maven-repository.dev.java.net/repository/jstl/jars/jstl-1.2.jar</span></span></span><br></pre></td></tr></table></figure><p>发现原来还少jsf-impl.jar, jsf-api.jar，jstl-1.2.jar这三个文件<br>于是继续在Library中添加JSF Mojarra 1.2_04 Libraries,JSTL 1.2 Library两项。</p><blockquote><p>JSF Mojarra 1.2_04 Libraries 包含jsf-impl.jar, jsf-api.jar<br>JSTL 1.2 Library 包含jstl-1.2.jar</p></blockquote><p>然后运行Tomcat，问题解决</p><p>我是在MyEclipse 2015使用的，其他版本的不清楚，也可以直接下载到本地，加载到项目中。</p><blockquote><p>百度网盘链接: <a href="http://pan.baidu.com/s/1gfNhWcz">http://pan.baidu.com/s/1gfNhWcz</a> 密码: r39f</p></blockquote>]]></content>
-      
-      
-      <categories>
-          
-          <category> APP </category>
-          
-          <category> MyEclipse </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Failed </tag>
-            
-            <tag> JDK </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>MyEclipse2015项目报错Failed while installing Dynamic Web Module 2.5</title>
       <link href="/APP/MyEclipse/MyEclipse2015_Failed_2.5.html"/>
       <url>/APP/MyEclipse/MyEclipse2015_Failed_2.5.html</url>
@@ -827,6 +811,35 @@
             <tag> Failed </tag>
             
             <tag> Svn </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</title>
+      <link href="/APP/MyEclipse/MyEclipse2015_HttpSession_error.html"/>
+      <url>/APP/MyEclipse/MyEclipse2015_HttpSession_error.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"><a href="#MyEclipse2015启动Tomcat中项目时报错HttpSession出错" class="headerlink" title="MyEclipse2015启动Tomcat中项目时报错HttpSession出错"></a>MyEclipse2015启动Tomcat中项目时报错HttpSession出错</h2><a id="more"></a><p>Tomcat中项目时报错HttpSession出错，如下</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">org.apache.catalina.LifecycleException: Failed to start component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/mj_oto_edus_auto_new]]</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSession</span><br><span class="line">************************************</span><br><span class="line">Caused by: java.lang.NoClassDefFoundError: HttpSessionBindingEvent</span><br><span class="line">************************************</span><br></pre></td></tr></table></figure><p>百度搜索HttpSession的信息,百科对它的简单介绍是Java的一个接口。</p><blockquote><p>HttpSession是Java平台对session机制的实现规范，因为它仅仅是个接口，具体到每个web应用服务器的提供商，除了对规范支持之外，仍然会有一些规范里没有规定的细微差异。</p></blockquote><h4 id="HttpSession-Java-EE-5-SDK"><a href="#HttpSession-Java-EE-5-SDK" class="headerlink" title="HttpSession (Java EE 5 SDK)"></a><a href="http://www.baidu.com/link?url=qVAKkg9VvrY8jxVRdnzq9pMkL4ohgErwtvWY9PNUTF0K7fbY2rjd3uErWygKyqjYXB7tmNMMVy-wCQyO9u67yTK5Dc0LjR9aGaHlbaKOTgC0iEGz_WJaemVRAg-rYfsC&wd=&eqid=835b47ba000119cc00000003572af1b5"><em>HttpSession</em> (Java EE 5 SDK)</a></h4><p>发现原来他是在Java EE 5中，于是在MyEclipse中Libraries中加上“JavaEE 5.0 Generic Library”，继续执行项目，项目继续报错，缺少jstl。<br>查看“JavaEE 5.0 Generic Library”发现其中只有一个“javaee.jar”,于是在MyEclipse的目录中找到“javaee.jar”所在的目录，发现其中有个文件README.txt</p><figure class="highlight java"><table><tr><td class="code"><pre><span class="line">This folder contains libraries obtained from the Sun JEE5 Referene SDK.  </span><br><span class="line">http:<span class="comment">//java.sun.com/javaee/downloads/index.jsp</span></span><br><span class="line">The license <span class="keyword">for</span> these <span class="number">3</span> jar libraries is also contained in <span class="keyword">this</span> folder.</span><br><span class="line"></span><br><span class="line">The JSF <span class="number">1.2</span> <span class="function">implementation <span class="title">files</span> <span class="params">(jsf-impl.jar, jsf-api.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//javaserverfaces.dev.java.net/files/documents/1866/52042/jsf-1.2_04-b07-FCS.zip</span></span></span><br><span class="line"><span class="function"></span></span><br><span class="line"><span class="function">The JSTL 1.2 implementation files: <span class="params">(jstl<span class="number">-1.2</span>.jar)</span></span></span><br><span class="line"><span class="function">were obtained from: https:<span class="comment">//maven-repository.dev.java.net/repository/jstl/jars/jstl-1.2.jar</span></span></span><br></pre></td></tr></table></figure><p>发现原来还少jsf-impl.jar, jsf-api.jar，jstl-1.2.jar这三个文件<br>于是继续在Library中添加JSF Mojarra 1.2_04 Libraries,JSTL 1.2 Library两项。</p><blockquote><p>JSF Mojarra 1.2_04 Libraries 包含jsf-impl.jar, jsf-api.jar<br>JSTL 1.2 Library 包含jstl-1.2.jar</p></blockquote><p>然后运行Tomcat，问题解决</p><p>我是在MyEclipse 2015使用的，其他版本的不清楚，也可以直接下载到本地，加载到项目中。</p><blockquote><p>百度网盘链接: <a href="http://pan.baidu.com/s/1gfNhWcz">http://pan.baidu.com/s/1gfNhWcz</a> 密码: r39f</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> APP </category>
+          
+          <category> MyEclipse </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Failed </tag>
+            
+            <tag> JDK </tag>
             
         </tags>
       
