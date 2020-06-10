@@ -420,34 +420,6 @@
   </entry>
   
   <entry>
-    <title>Sketch 插件整理</title>
-    <link href="https://soyl.tech/APP/Sketch/Sketch_Plugins.html"/>
-    <id>https://soyl.tech/APP/Sketch/Sketch_Plugins.html</id>
-    <published>2019-02-27T12:38:45.000Z</published>
-    <updated>2020-06-07T08:40:44.489Z</updated>
-    
-    <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-
-&lt;h3 id=&quot;Sketch-measure&quot;&gt;&lt;a href=&quot;#Sketch-measure&quot; class=&quot;headerlink&quot; title=&quot;Sketch measure&quot;&gt;&lt;/a&gt;Sketch measure&lt;/h3&gt;&lt;p&gt;标记尺
-      
-    
-    </summary>
-    
-    
-      <category term="APP" scheme="https://soyl.tech/categories/APP/"/>
-    
-      <category term="Sketch" scheme="https://soyl.tech/categories/APP/Sketch/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Sketch 快捷键</title>
     <link href="https://soyl.tech/APP/Sketch/Sketch_key.html"/>
     <id>https://soyl.tech/APP/Sketch/Sketch_key.html</id>
@@ -467,6 +439,34 @@
 &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
+      
+    
+    </summary>
+    
+    
+      <category term="APP" scheme="https://soyl.tech/categories/APP/"/>
+    
+      <category term="Sketch" scheme="https://soyl.tech/categories/APP/Sketch/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sketch 插件整理</title>
+    <link href="https://soyl.tech/APP/Sketch/Sketch_Plugins.html"/>
+    <id>https://soyl.tech/APP/Sketch/Sketch_Plugins.html</id>
+    <published>2019-02-27T12:38:45.000Z</published>
+    <updated>2020-06-07T08:40:44.489Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;h3 id=&quot;Sketch-measure&quot;&gt;&lt;a href=&quot;#Sketch-measure&quot; class=&quot;headerlink&quot; title=&quot;Sketch measure&quot;&gt;&lt;/a&gt;Sketch measure&lt;/h3&gt;&lt;p&gt;标记尺
       
     
     </summary>
