@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://soyl.tech/uncategorized/baidu_url_submit.html</loc>
+    <loc>https://soyl.tech/me/index.html</loc>
     
-    <lastmod>2020-06-10T13:57:20.778Z</lastmod>
+    <lastmod>2020-06-14T06:16:58.474Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/about/index.html</loc>
+    
+    <lastmod>2020-06-14T06:16:53.669Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://soyl.tech/Hexo/baidu_url_submit.html</loc>
+    
+    <lastmod>2020-06-10T16:17:09.983Z</lastmod>
     
   </url>
   
@@ -289,13 +303,6 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/tags/index.html</loc>
-    
-    <lastmod>2019-10-12T09:02:32.047Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://soyl.tech/categories/index.html</loc>
     
     <lastmod>2019-10-12T09:02:32.047Z</lastmod>
@@ -303,9 +310,9 @@
   </url>
   
   <url>
-    <loc>https://soyl.tech/about/index.html</loc>
+    <loc>https://soyl.tech/tags/index.html</loc>
     
-    <lastmod>2019-10-12T09:02:32.046Z</lastmod>
+    <lastmod>2019-10-12T09:02:32.047Z</lastmod>
     
   </url>
   

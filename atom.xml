@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://soyl.tech/"/>
-  <updated>2020-06-10T13:57:20.778Z</updated>
+  <updated>2020-06-10T16:17:09.983Z</updated>
   <id>https://soyl.tech/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hexo插件之百度主动提交链接</title>
-    <link href="https://soyl.tech/uncategorized/baidu_url_submit.html"/>
-    <id>https://soyl.tech/uncategorized/baidu_url_submit.html</id>
+    <link href="https://soyl.tech/Hexo/baidu_url_submit.html"/>
+    <id>https://soyl.tech/Hexo/baidu_url_submit.html</id>
     <published>2020-06-10T12:38:16.000Z</published>
-    <updated>2020-06-10T13:57:20.778Z</updated>
+    <updated>2020-06-10T16:17:09.983Z</updated>
     
     <content type="html"><![CDATA[<p>百度如今不重视个人站点，使用sitemap推送提示一直等待中，找了好久找到了这个插件<a href="https://github.com/huiwang/hexo-baidu-url-submit">hexo-baidu-url-submit</a>. </p><a id="more"></a><h2 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h2><blockquote><p>npm install hexo-baidu-url-submit –save</p></blockquote><h2 id="在根目录config-yml文件里加入以下代码："><a href="#在根目录config-yml文件里加入以下代码：" class="headerlink" title="在根目录config.yml文件里加入以下代码："></a>在根目录<code>config.yml</code>文件里加入以下代码：</h2><figure class="highlight yml"><figcaption><span>_config.yml >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="attr">baidu_url_submit:</span></span><br><span class="line">  <span class="attr">count:</span> <span class="number">100</span> <span class="comment">## 提交最新的一个链接</span></span><br><span class="line">  <span class="attr">host:</span> <span class="string">soyl.tech</span> <span class="comment">## 在百度站长平台中注册的域名</span></span><br><span class="line">  <span class="attr">token:</span> <span class="string">*******</span> <span class="comment">## 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里!</span></span><br><span class="line">  <span class="attr">path:</span> <span class="string">baidu_urls.txt</span> <span class="comment">## 文本文档的地址， 新链接会保存在此文本文档里</span></span><br></pre></td></tr></table></figure><p>其次，记得查看_config.ym文件中url的值， 必须包含是百度站长平台注册的域名（一般有www）， 比如:</p><figure class="highlight yml"><figcaption><span>_config.yml >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="comment"># URL</span></span><br><span class="line"><span class="attr">url:</span> <span class="string">https://soyl.tech</span></span><br><span class="line"><span class="attr">root:</span> <span class="string">/</span></span><br><span class="line"><span class="attr">permalink:</span> <span class="string">:year/:month/:day/:title/</span></span><br></pre></td></tr></table></figure><h2 id="加入新的deployer"><a href="#加入新的deployer" class="headerlink" title="加入新的deployer:"></a>加入新的deployer:</h2><figure class="highlight yml"><figcaption><span>_config.yml >unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line"><span class="bullet">-</span> <span class="attr">type:</span> <span class="string">git</span> <span class="comment">## 这是我原来的deployer</span></span><br><span class="line">  <span class="attr">repository:</span> <span class="string">git@github.com:HeySoyl/HeySoyl.github.io.git</span></span><br><span class="line">  <span class="attr">branch:</span> <span class="string">master</span></span><br><span class="line"><span class="bullet">-</span> <span class="attr">type:</span> <span class="string">baidu_url_submitter</span> <span class="comment">## 这是新加的</span></span><br></pre></td></tr></table></figure><h2 id="执行-hexo-d"><a href="#执行-hexo-d" class="headerlink" title="执行 hexo d"></a>执行 hexo d</h2><figure class="highlight shell"><figcaption><span>>unfolded</span></figcaption><table><tr><td class="code"><pre><span class="line">INFO  Deploy done: git</span><br><span class="line">INFO  Deploying: baidu_url_submitter</span><br><span class="line">INFO  Submitting urls </span><br><span class="line">https://soyl.tech/uncategorized/yonghuxieyi.html</span><br><span class="line">https://soyl.tech/uncategorized/cloudkit_question.html</span><br><span class="line">&#123;"remain":2961,"success":39&#125;</span><br><span class="line">INFO  Deploy done: baidu_url_submitter</span><br></pre></td></tr></table></figure><p>看到”success”:39 表示提交成功了39条</p><blockquote><p>文章引用来源：<a href="https://hui-wang.info/2016/10/23/Hexo插件之百度主动提交链接/">王辉的博客</a></p></blockquote>]]></content>
     
@@ -31,6 +31,8 @@
     
     </summary>
     
+    
+      <category term="Hexo" scheme="https://soyl.tech/categories/Hexo/"/>
     
     
   </entry>
@@ -439,34 +441,6 @@
   </entry>
   
   <entry>
-    <title>Sketch 插件整理</title>
-    <link href="https://soyl.tech/APP/Sketch/Sketch_Plugins.html"/>
-    <id>https://soyl.tech/APP/Sketch/Sketch_Plugins.html</id>
-    <published>2019-02-27T12:38:45.000Z</published>
-    <updated>2020-06-07T08:40:44.489Z</updated>
-    
-    <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-
-&lt;h3 id=&quot;Sketch-measure&quot;&gt;&lt;a href=&quot;#Sketch-measure&quot; class=&quot;headerlink&quot; title=&quot;Sketch measure&quot;&gt;&lt;/a&gt;Sketch measure&lt;/h3&gt;&lt;p&gt;标记尺
-      
-    
-    </summary>
-    
-    
-      <category term="APP" scheme="https://soyl.tech/categories/APP/"/>
-    
-      <category term="Sketch" scheme="https://soyl.tech/categories/APP/Sketch/"/>
-    
-    
-  </entry>
-  
-  <entry>
     <title>Sketch 快捷键</title>
     <link href="https://soyl.tech/APP/Sketch/Sketch_key.html"/>
     <id>https://soyl.tech/APP/Sketch/Sketch_key.html</id>
@@ -486,6 +460,34 @@
 &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
+      
+    
+    </summary>
+    
+    
+      <category term="APP" scheme="https://soyl.tech/categories/APP/"/>
+    
+      <category term="Sketch" scheme="https://soyl.tech/categories/APP/Sketch/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sketch 插件整理</title>
+    <link href="https://soyl.tech/APP/Sketch/Sketch_Plugins.html"/>
+    <id>https://soyl.tech/APP/Sketch/Sketch_Plugins.html</id>
+    <published>2019-02-27T12:38:45.000Z</published>
+    <updated>2020-06-07T08:40:44.489Z</updated>
+    
+    <content type="html"><![CDATA[<a id="more"></a><h3 id="Sketch-measure"><a href="#Sketch-measure" class="headerlink" title="Sketch measure"></a>Sketch measure</h3><p>标记尺寸</p><blockquote><p>快捷键：Ctrl + Cmd + B</p></blockquote><h3 id="Runner"><a href="#Runner" class="headerlink" title="Runner"></a>Runner</h3><p>快速查找组件</p><blockquote><p>快捷键：Cmd + ‘</p></blockquote><h3 id="Auto-Layout"><a href="#Auto-Layout" class="headerlink" title="Auto-Layout"></a>Auto-Layout</h3><p>组件位置</p><blockquote><p>安装好之后，选中一个对象，Auto Layout就会出现在inspector的右下角</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+&lt;h3 id=&quot;Sketch-measure&quot;&gt;&lt;a href=&quot;#Sketch-measure&quot; class=&quot;headerlink&quot; title=&quot;Sketch measure&quot;&gt;&lt;/a&gt;Sketch measure&lt;/h3&gt;&lt;p&gt;标记尺
       
     
     </summary>
